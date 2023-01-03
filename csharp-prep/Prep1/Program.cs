@@ -13,3 +13,5 @@ class Program
         Console.WriteLine($"Your name is {lname}, {fname} {lname}.");
     }
 }
+
+// git status - git add . - git status - git commit -m "Here it is!" - git push
