@@ -5,13 +5,13 @@ class Program
     static void Main(string[] args)
     {
         Console.Write("What is your first name? ");
-        string fname = Console.ReadLine();
+        string fName = Console.ReadLine();
 
         Console.Write("What is your last name? ");
-        string lname = Console.ReadLine();
+        string lName = Console.ReadLine();
 
-        Console.WriteLine($"Your name is {lname}, {fname} {lname}.");
+        Console.WriteLine($"Your name is {lName}, {fName} {lName}.");
     }
 }
 
-// git status - git add . - git status - git commit -m "Here it is!" - git push
+// git remote -v git status - git add . - git status - git commit -m "Here it is!" - git push :q!
