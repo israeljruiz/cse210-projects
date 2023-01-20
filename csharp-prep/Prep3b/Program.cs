@@ -10,7 +10,7 @@ class Program
         int guess = -1;
         string play = "yes";
 
-        while (play = "yes") ;
+        // while (play = "yes") ;
         {
 
         }
