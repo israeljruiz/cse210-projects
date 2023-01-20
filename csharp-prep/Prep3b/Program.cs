@@ -7,8 +7,8 @@ class Program
         Random randomGenerator = new Random();
         int number = randomGenerator.Next(1, 100);
 
-        int guess = -1;
-        string play = "yes";
+        // int guess = -1;
+        // string play = "yes";
 
         // while (play = "yes") ;
         {
